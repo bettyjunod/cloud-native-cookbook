@@ -9,3 +9,7 @@ So at the suggestion of a [friend](https://twitter.com/BettyJunod/status/1315002
 ## Everyone is Welcome 
 
 Please feel free to organize, make suggestions, anything! I am not a well-versed GitHub user so I'm going to need some help from the engineers out there :) 
+
+## How to Add
+
+Folders by Category, then a sub-folder which includes your recipe and any pics you'd like to add
